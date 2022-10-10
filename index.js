@@ -10,7 +10,7 @@ import { setupMaster, fork } from 'cluster'
 import { watchFile, unwatchFile } from 'fs'
 
 // https://stackoverflow.com/a/50052194
-const { keep_alive } = require("./keep_alive");
+const { keep_alive } = ("./keep_alive");
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 const __dirname = dirname(fileURLToPath(import.meta.url))
