@@ -52,8 +52,8 @@ const sections = [{
 title: `⟥⟝⟢⟨ Sᴇᴡᴀ Bᴏᴛ ⟩⟣⟞⟤`,
 rows: [
 {title: "⟣⟨ HEMAT ⟩⟢",
-rowId: '.store sewabottt 7 Hari',
-description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 5 ᴋ : 7 Hᴀʀɪ' },
+rowId: '.store sewabottt PROMO',
+description: 'PROMO Pʀɪᴄᴇ Sᴇᴡᴀ 5 ᴋ : PERMANEN' },
 {title: "⟣⟨ NORMAL ⟩⟢",
 rowId: '.store sewabottt 15 Hari',
 description: 'Pʀɪᴄᴇ Sᴇᴡᴀ 10 ᴋ : 15 Hᴀʀɪ' },

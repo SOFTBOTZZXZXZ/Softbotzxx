@@ -14,7 +14,7 @@ let pv = '50'
 let ppm = '70'
 let info = `
 ╭━━━━「 *SEWA* 」
-┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
+┊⫹⫺ *Hemat:* _${sh}k/grup (PERMANEN)_
 ┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_
 ┊⫹⫺ *Standar:* _${ss}k/grup (2 bulan)_
 ┊⫹⫺ *Pro:* _${sp}k/grup (4 bulan)_                                                      
@@ -30,7 +30,7 @@ let info = `
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
-• *Pulsa Telkomsel:* [${ppulsa}]
+• *Pulsa INDOSAT:* [${ppulsa}]
 • *Dana:* [${pdana}]
 • *Gopay:* [${pgopay}]
 • *Ovo:* [${povo}]
@@ -49,7 +49,7 @@ const sections = [
    {
 	title: `${htjava} SEWA ✦-------`,
 	rows: [
-	    {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (1 minggu)' },
+	    {title: "🔖 HEMAT", rowId: '.order *Paket:* HEMAT • Sewa', description: 'PRICE: ' + sh + 'k (PERMANEN)' },
 	    {title: "🔖 NORMAL", rowId: '.order *Paket:* NORMAL • Sewa', description: 'PRICE: ' + sn + 'k (1 bulan)' },
 	{title: "🔖 STANDAR", rowId: '.order *Paket:* STANDAR • Sewa', description: 'PRICE: ' + ss + 'k (2 bulan)' },
 	{title: "🔖 PRO", rowId: '.order *Paket:* PRO • Sewa', description: 'PRICE: ' + sp + 'k (4 bulan)' },
