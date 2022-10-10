@@ -105,7 +105,7 @@ global.wm2 = 'SofatiXD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `SOFTBOTZ`
-global.stickpack = 'SOFTBORZ'
+global.stickpack = 'SofatiXD'
 global.stickauth = `© SOFTBOTZ MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -118,9 +118,9 @@ global.lynk = 'https://lynk.id/belum buat'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/sofati.stfy'
+global.sig = 'https://instagram.com/sofati.stfu'
 global.sgh = 'https://github.com/SofatiGanz' //github
-global.sgc = 'https://chat.whatsapp.com/000000000' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/CyQlUNAHrJn40mLXBq0MQY' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/c/SofatiGT'
 
