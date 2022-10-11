@@ -41,7 +41,7 @@ conn.sendButtonDoc(m.chat, krtu, 'Script : https://youtube.com/c/SofatiGT\nSubs 
     mediaUrl: "https://youtube.com/c/SofatiGT",
     mediaType: "VIDEO",
     description: "https://youtube.com/c/SofatiGT", 
-    title: 'Al? Offc',
+    title: 'SOFATIXD?',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
